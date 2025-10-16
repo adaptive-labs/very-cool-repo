@@ -7,7 +7,7 @@ schemaVersion: 1
 # entity: test-shoedocs
 
 site:
-  name: "Shoedocs 101"
+  name: "HowTo Shoedocs"
   description: "Getting started with Shoedocs"
 
 features:
@@ -22,7 +22,7 @@ docs:
   homepage: "start.md"
 
 navigation:
-  - title: "Documentation"
+  - title: "HowTo Documentation"
     items:
       - title: "Welcome"
         path: "start.md"
